@@ -1,7 +1,7 @@
 
 # A Primer in Econometric Theory
 
-Code and Jupyter notebooks for the text [A Primer in Econometric Theory](http://johnstachurski.net/emet.html) by [John Stachurski](http://johnstachurski.net/).
+Code and Jupyter notebooks of [A Primer in Econometric Theory](http://johnstachurski.net/emet.html) by [John Stachurski](http://johnstachurski.net/).
 
 For more information see
 
