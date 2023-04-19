@@ -11,4 +11,3 @@ For more information see:
 
 On the text homepage you can find information on how to run the notebooks
 locally or live in your browser.
-
